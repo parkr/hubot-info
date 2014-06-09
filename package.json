@@ -1,0 +1,27 @@
+{
+  "name": "hubot-info",
+  "version": "0.1.0",
+  "description": "A simple server endpoint for getting info about Hubot.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "script/smoke-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parkr/hubot-info"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-info",
+    "info",
+    "keepalive",
+    "keep",
+    "alive"
+  ],
+  "author": "Parker Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parkr/hubot-info/issues"
+  },
+  "homepage": "https://github.com/parkr/hubot-info"
+}
